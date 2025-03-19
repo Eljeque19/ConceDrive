@@ -33,5 +33,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     subMenu.addEventListener('mouseleave', function() {
         subMenu.style.display = 'none';
+
+    console.log("Prueba")
+        
     });
 });
